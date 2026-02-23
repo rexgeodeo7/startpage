@@ -161,12 +161,12 @@ class Tabs extends Component {
       }
 
       .categories .links {
-          right: 0;
-          width: 70%;
-          height: 100%;
-          background: ${CONFIG.palette.base};
-          padding: 4% 6%;
-          flex-wrap: wrap;
+        right: 0;
+        width: 82%;
+        height: 100%;
+        background: ${CONFIG.palette.base};
+        padding: 4% 3%;
+        flex-wrap: wrap;
       }
 
       .categories .links li {
