@@ -1,4 +1,4 @@
-  class Links extends Component {
+    class Links extends Component {
   constructor() {
     super();
   }
@@ -96,7 +96,7 @@ class Tabs extends Component {
       #panels {
           border-radius: 15px;
           width: 90%;
-          max-width: 900px;
+          max-width: 700px;
           height: 450px;
           right: 0;
           left: 0;
