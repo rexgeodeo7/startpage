@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = latte;
 
 const default_config = {
   overrideStorage: true,
@@ -62,14 +62,14 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/rexgeodeo7",
               icon: "brand-github",
               icon_color: palette.green,
             },
             {
               name: "devdocs",
               url: "https://devdocs.io",
-              icon: "code",
+              icon: "source-code",
               icon_color: palette.blue,
             },
             {
@@ -84,9 +84,9 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
-              icon: "brand-leetcode",
+              name: "bootdev",
+              url: "https://www.boot.dev/dashboard",
+              icon: "code",
               icon_color: palette.yellow,
             },
             {
