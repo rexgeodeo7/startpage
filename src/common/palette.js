@@ -97,7 +97,7 @@ const mocha = {
   green: "#a6e3a1",
   teal: "#94e2d5",
   sky: "#89dceb",
-  sapphire: "#74c7ec",
+  sapphire: "#9d82d9",
   blue: "#89b4fa",
   lavender: "#b4befe",
   text: "#cdd6f4",
@@ -109,7 +109,7 @@ const mocha = {
   surface2: "#585b70",
   surface1: "#45475a",
   surface0: "#313244",
-  base: "#1e1e2e",
-  mantle: "#181825",
+  base: "#08050b",
+  mantle: "#0e0913",
   crust: "#11111b",
 };
